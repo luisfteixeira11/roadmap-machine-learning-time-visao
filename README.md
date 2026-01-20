@@ -9,6 +9,7 @@ Obs: Eu tenho alguns livros dos citados abaixo, se tiver interesse é só entrar
  - [Programação Fundamental](#programação-fundamental)
  - [Dados](#dados)
  - [Machine Learning](#machine-learning)
+ - [Recursos Adicionais](#recursos-adicionais)
 
  # Introdução
  Muitos possuem alguma definição específica sobre o Aprendizado de Máquina, porém, no sentido mais amplo, se trata de um campo da Inteligência Artificial que utiliza algoritmos, reconhecimento de padrões e dados para que o computador processe esses dados e aprenda com eles. Alguns exemplos de como Machine Learning é presente no mundo atual são as recomendações em catálogos como os da Amazon e da Netflix, em reconhecimentos faciais de telefones e até no filtro de Spam de e-mails. Abaixo alguns vídeos que introduzem bem o que é Machine Learning.
@@ -27,15 +28,29 @@ Toda pessoa que tem interesse na área de Machine Learning deve ter uma boa base
 | **Probabilidade e Estatística** | Essencial para análise de dados e avaliação de modelos. | [Estatística e Ciência de Dados (Amazon)](https://www.amazon.com.br/Estat%C3%ADstica-Ci%C3%AAncia-Dados-Alberto-Morettin/dp/852163899X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.L6Rfp3itXrIqVgLtIl5c8DQYO0_Sl16yTT9ENzYjoboSEKcgDq_BPQrGk8UKV1IDDVxVbSol9ype2cwtxsh-fmvz7ELuh8dRxlloEZnw8ZqVluLtRSjWKKV9hT_wqrdcPBPJq7I1Lg7O4w5xjZQF0wDF1n6EYcyGr8HmLndA34k9EpYM6PGzE3B9t18nfsKS-dMFIyu9WCY931ekUDbmNhrgXf4bK75ZUqTb2CxxxvO6y-1D6aUMJzwYb65WeUblqSaWvv3xdWuW9AibszyYtwu-Ov4WAmsgE1PvjoxQzug.3-l_Z-SN6Ge8F0pP1RzQR3HREdoKUOmbvoD1Ge9hPh8&dib_tag=se&keywords=Estat%C3%ADstica+Ci%C3%AAncia+de+Dados&qid=1768621824&sr=8-1&ufe=app_do%3Aamzn1.fos.fcd6d665-32ba-4479-9f21-b774e276a678) / [Estatística Prática para Ciência de Dados (Amazon)](https://www.amazon.com.br/Estat%C3%ADstica-Pr%C3%A1tica-Para-Cientistas-Dados/dp/8550826510/ref=sr_1_1?dib=eyJ2IjoiMSJ9.x7w8oET5usADUj9f5v0SDYJUzq5dApC4Se6_kyqQwhY6roKcEmCKifQMTKxE6zJF6xwKIkdsoAcJlbJ8dFNy81sZ-hwMoTlVleHPUaPTLpf7Hm8Cphvs6U97pD2vuOrtlts68lEwgNUk_ADlO5BCQe5HwJPRk8ZoXZRBi7jUul7bTQayyQ7OrBdkOE6Uj-BPehA8-vqEKpDKx7NPgVIy4xBQKbg_Rf2ZC4q19sWpY4Oh3aIyL3QAU1hJ1yz_3C4oIZu7D3Z-HnWB9f_A9qEgTqfqtau70jdu6sZr1X_4vfc.TunbjPlIGWFBu_yESFrcrRDclbU9qKY9Yp4_6WE9gvQ&dib_tag=se&keywords=Estat%C3%ADstica+Pr%C3%A1tica+para+Ci%C3%AAncia+de+Dados&qid=1768621793&sr=8-1) |
 
 # Programação Fundamental
-em breve
+A habilidade de programar, para uma pessoa da área de Machine Learning, é a caixa de ferramentas para criar sistemas que aprendem com os dados, Python é a linguagem mais presente, pois possui várias bibliotecas de extrema utilidade.
+
 | Tópico | Descrição | Links úteis |
 |--------|-----------|----------|
 |**Python**| É a linguagem dominante na área, além de ser simples, versátil e ter uma grande comunidade. | [Python curso USP - Coursera (grátis)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_br_pt_m_hyb_25-11_x&campaignid=23233116708&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6629494404&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=23403004930&gbraid=0AAAAADdKX6bAxluMhpzG88j9iJyMSHPbP&gclid=CjwKCAiA4KfLBhB0EiwAUY7GAZcfE-_-K6ziZVft3MIwYa_U2cL7FintoaKAm63Nyw_Fd7kpZNjT2xoCrFUQAvD_BwE) / [Curso anterior parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2)|
-| **Git/Gitub** | Controle de versão é essencial para trabalho em equipe | em breve |
-| **Programação Orientada a Objetos** | em breve | em breve |
-| **Algoritmos e Estruturas de Dados** | em breve | em breve |
+| **Git/Gitub** | Controle de versão é essencial para trabalho em equipes grandes, além de servir como portifólio e ter todo o histórico de mudança dos seus projetos salvos. | em breve |
+| **Programação Orientada a Objetos** | É um conhecimento essencial para o domínio de frameworks, melhor modularização de código, até para o desenvolvimento de agentes e LLMs. | em breve |
+| **Algoritmos e Estruturas de Dados** | É crucial para entender sobre o processamento de grande volume de dados, otimização, até para implementação de redes neurais. | em breve |
 
 # Dados
-em breve
+Na área de Aprendizado de Máquina, o profissional deve saber que o output do modelo é o resultado dos dados que foram fornecidos em um input, como analisar, manipular, limpar e extrair a entrada e a saída é fundamental para qualquer pessoa da área.
+| Tópico | Descrição | Links úteis |
+|--------|-----------|-------------|
+| **Bibliotecas  Python para Dados** | Numpy e Pandas podem auxiliar a manipular e analisar os dados da melhor forma em Python. | em breve |
+| **Exploração de Dados** | Crucial para entendimento dos padrões de dados e features, sendo útil para entender se os dados estão prontos. | em breve |
+| **Limpeza e Pré-processamento** | É onde a pessoa passa mais tempo em ML, já que a qualidade dos dados afeta diretamente o desempenho e a efetividade do modelo. | em breve |
+| **Visualização de Dados** | Fundamental para a exploração dos resultados, em bibliotecas como Matplotlib, Seaborn e Plotly. | em breve |
+| **SQL e Banco de Dados** | Geralmente os dados residem em Bancos de Dados e Sistemas, e o SQL facilita a manipulação dos dados. | em breve |
+| **Web Scraping e APIs (extra)** | Muito útil para coletas de dados, mesmo não sendo imperdível para um iniciante, é um ótimo tópico de estudo. | em breve |
+
 # Machine Learning
 em breve
+
+# Recursos adicionais
+
+kaggle, blogs, podcasts, algumas coisas de python
