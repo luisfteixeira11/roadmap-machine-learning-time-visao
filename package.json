@@ -1,0 +1,26 @@
+{
+  "name": "roadmap-machine-learning",
+  "version": "1.0.0",
+  "description": "Este é um repositório de um roadmap voltado para auxiliar pessoas que querem ingressar na área de Machine Learning, sendo uma iniciativa do time Visão da Universidade de Pernambuco, podendo ser de utilidade para qualquer pessoa que queira dominar os fundamentos de Machine Learning, ou buscar algum material para estudo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisfteixeira11/roadmap-machine-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisfteixeira11/roadmap-machine-learning/issues"
+  },
+  "homepage": "https://github.com/luisfteixeira11/roadmap-machine-learning#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

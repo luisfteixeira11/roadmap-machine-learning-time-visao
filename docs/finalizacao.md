@@ -1,0 +1,3 @@
+# Finalização
+
+Se você chegou a completar o Roadmap, você sabe (pelo menos) o essencial da área de Machine Learning, de forma que você consegue fazer um modelo de aprendizado de máquina limpo, escalável e com boa capacidade preditiva. Esperamos que o Roadmap tenha lhe agregado algum conhecimento para que possa usar da melhor forma possível. Você pode ainda se aprofudar em vários tópicos ligados a Machine Learning
