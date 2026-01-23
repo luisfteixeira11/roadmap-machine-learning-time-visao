@@ -14,7 +14,7 @@ No desenvolvimento do site foi utilizado apenas o SSG [Vitepress](https://vitepr
 
 ----
 ## Deploy
-O site foi hospeadado no [Vercel](https://vercel.com/). Toda modificação na branch `Main` vai ser automaticamente publicada no site.
+O site foi hospeadado no [Vercel](https://vercel.com/). Toda modificação na branch `main` vai ser automaticamente publicada no site.
 
 ----
 ## Suporte

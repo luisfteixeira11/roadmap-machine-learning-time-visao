@@ -2,8 +2,8 @@
 # Tópicos de Machine Learning
 Para mergulhar de fato no Aprendizado de Máquina á necessário saber de que forma as máquinas podem aprender
 
-| Tópico | Descrição | Links úteis |
-|--------|-----------|-------------|
+| Tópico | Descrição | Livro | Playlist | Página web |
+|--------|-----------|----------|------|--------|
 | **Aprendizado Supervisionado** | Classificação, regressão... | em breve |
 | **Aprendizado não Supervisionado** | Clustering, associação e redução de dimensionalidade | em breve |
 | **Aprendizado por Reforço** | Q-learn... | em breve |

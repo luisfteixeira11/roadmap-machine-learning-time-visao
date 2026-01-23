@@ -4,3 +4,5 @@
  - [Ciencia Todo Dia - Machine Learning explicado](https://youtu.be/0PrOA2JK6GQ?si=-IgsvLtgiYGeej4O)
 
 - [IBM Technology - Machine Learning Explained: A Guide to ML, AI, & Deep Learning](https://youtu.be/znF2U_3Z210?si=KnoduDQblsW8l3_X)
+
+ - [Machine Learning: como ENSINAR a MÁQUINA - Téo Me Why (um video mais longo, ele mostra sobre a área de dados atualmente, além do aspecto teórico e prático de aprendizado de máquina)](https://youtu.be/oj0ACpEHpS0?si=3BpU43THqNyl6-1e)
