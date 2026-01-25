@@ -34,7 +34,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://timevisaoupe.github.io/' },
+      { icon: 'github', link: 'https://github.com/Timevisaoupe' },
       { icon: 'instagram', link: 'https://www.instagram.com/timevisaoupe?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==' }
     ]
   }
