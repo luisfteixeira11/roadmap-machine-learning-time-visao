@@ -9,6 +9,41 @@ O roadmap aborda os seguintes conteúdos da área de ML:
  - Conhecimento da área de dados e de como manipular os dados de forma a criar um modelo limpo e eficiente
  - Tópicos de Machine Learning e Inteligência Artificial, abordando aspéctos teóricos e práticos para o treinamento de um modelo.
 ----
+## Como rodar localmente
+
+### Pré-requisitos
+- Node.js (v16 ou superior)
+- npm ou yarn
+
+### Instalação e execução
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/luisfteixeira11/roadmap-machine-learning.git
+cd roadmap-machine-learning
+```
+
+2. Instale as dependências:
+
+```bash
+npm install
+```
+(ele instala automáticamente quando digita isso por causa da pasta package.json)
+
+3. Rode o servidor de desenvolvimento:
+```bash
+npm run docs:dev
+```
+
+4. Acesse no navegador o local host que apareceu na tela do terminal.
+
+### Comandos disponíveis
+
+- `npm run docs:dev` - Inicia o servidor de desenvolvimento com hot reload
+- `npm run docs:build` - Compila o site para produção (pasta `docs/.vitepress/dist`)
+- `npm run docs:preview` - Visualiza a build de produção localmente
+
+----
 ## O que foi utilizado para fazer o site:
 No desenvolvimento do site foi utilizado apenas o SSG [Vitepress](https://vitepress.dev/pt/), para fazer um site estático estilo Wiki com uma interface gráfica melhor para esse tipo de documentação.
 
